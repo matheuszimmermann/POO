@@ -10,7 +10,7 @@ Você deve implementar a solução em Java, criando a classe Emprestimo com o co
 
 Aluno: Matheus Zimmermann
 
-emprestimo
+
 public class Emprestimo { 
     
     // Atributos privados: valorTotal, taxaJuros e numeroParcelas
@@ -74,7 +74,6 @@ public void setNumeroParcelas(int numeroParcelas) {
 
 
 
-Parcela
 public class ParcelaEmprestimos {
     public static void main(String[] args) {
 
