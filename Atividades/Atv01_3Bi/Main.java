@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        // teste dos metodos
+        // teste dos metodo cachorro
         Cachorros cachorro = new Cachorros("Pastor Alemao", "Bob", 6);
         cachorro.emitirSom();
         cachorro.mover();
